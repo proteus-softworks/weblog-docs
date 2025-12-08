@@ -1,5 +1,6 @@
 ---
 title: The Dilettante’s Garden
+pubDate: 01 Dec 2025
 ---
 I have a tendency to start new hobbies, leave projects half finished, convince myself that THIS is MY thing — to “dabble”. It’s honestly exhausting and at times (read: almost always) embarrassing. Thankfully — through what could only be considered “maturity” — I’ve come to terms with my dilettantism, and with some reflection have noticed that a handful of the repeat offenders managed to take root in the rocky, alkaline soil of my brain. And I’m PROUD of my little garden.
 
