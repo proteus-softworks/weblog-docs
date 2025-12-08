@@ -1,0 +1,23 @@
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # In markdown repo
+      - name: Trigger weblog rebuild
+        uses: peter-evans/repository-dispatch@v3
+        with:
+            token: ${{ secrets.WEBLOG_DOCS_REBUILD_PAT }}
+            repository: proteus-softworks/weblog
+            event-type: content-update
