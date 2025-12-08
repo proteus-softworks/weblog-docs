@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the-dilettantes-garden.md",
+                "file": "Beliefs/emacs-vim.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "the-dilettantes-garden"
+              "title": "emacs-vim"
             }
           }
         ],
@@ -113,8 +113,19 @@
   "right": {
     "id": "001062b8e0c32c85",
     "type": "mobile-drawer",
-    "children": [],
-    "currentTab": -1
+    "children": [
+      {
+        "id": "a9ff6521a776cbfa",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -124,10 +135,10 @@
   },
   "active": "46ce24e83d19615a",
   "lastOpenFiles": [
-    "Beliefs/veganism.md",
-    "the-dilettantes-garden.md",
     "Beliefs/tailwind-good.md",
     "Beliefs/emacs-vim.md",
+    "the-dilettantes-garden.md",
+    "Beliefs/veganism.md",
     "Beliefs/you-dont-like-capitalism.md",
     "TODO.md",
     "Posts.md",

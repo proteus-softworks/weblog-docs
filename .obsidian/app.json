@@ -23,7 +23,10 @@
     "editor:configure-toolbar",
     "editor:insert-table",
     "editor:swap-line-up",
-    "editor:swap-line-down"
+    "editor:swap-line-down",
+    "obsidian-git:push",
+    "obsidian-git:open-git-view"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "mobilePullAction": ""
 }
