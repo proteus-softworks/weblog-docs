@@ -41,14 +41,15 @@
             "id": "46ce24e83d19615a",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace-mobile.json",
-                "bFile": ".obsidian/workspace-mobile.json",
-                "aRef": ""
+                "file": "Beliefs/emacs-vim.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: workspace-mobile.json"
+              "icon": "lucide-file",
+              "title": "emacs-vim"
             }
           }
         ],
