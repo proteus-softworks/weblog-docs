@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Beliefs/emacs-vim.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "emacs-vim"
             }
           }
         ],
@@ -136,11 +136,11 @@
   "active": "46ce24e83d19615a",
   "lastOpenFiles": [
     "Beliefs/tailwind-good.md",
+    "Beliefs/you-dont-like-capitalism.md",
+    "TODO.md",
     "Beliefs/emacs-vim.md",
     "the-dilettantes-garden.md",
     "Beliefs/veganism.md",
-    "Beliefs/you-dont-like-capitalism.md",
-    "TODO.md",
     "Posts.md",
     "Posts",
     "Beliefs"
