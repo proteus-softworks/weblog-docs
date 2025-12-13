@@ -5,46 +5,51 @@ pubDate: 09 Dec 2025
 ---
 # Beans
 
-| Stats             |                |
-| ----------------- | -------------- |
-| Gotcha Day        |                |
-| Birthday          |                |
-| Favorite Activity |                |
-| Alignment         | Lawful Neutral |
+| Stats             |               |
+| ----------------- | ------------- |
+| Gotcha Day        |               |
+| Birthday          |               |
+| Favorite Activity | Indiana Jones |
+| Alignment         | Lawful Good   |
+| Main item         | Blankie       |
 
 | Stat | Value |
 | ---- | ----- |
 | STR  | 15    |
-| DEX  | 10    |
+| DEX  | 8     |
 | CON  | 18    |
-| INT  | 18    |
+| INT  | 16    |
 | WIS  | 12    |
-| CHR  | 11    |
+| CHR  | 14    |
 
 # Bruiser
-| Stats             |              |
-| ----------------- | ------------ |
-| Gotcha Day        |              |
-| Birthday          |              |
-| Favorite Activity | Suckling     |
-| Alignment         | Chaotic Evil |
+| Stats             |                       |
+| ----------------- | --------------------- |
+| Gotcha Day        |                       |
+| Birthday          |                       |
+| Favorite Activity | Suckling, Galavanting |
+| Alignment         | Chaotic Good          |
+| Main item         | Skrimp                |
 
 | Stat | Value |
 | ---- | ----- |
 | STR  | 13    |
 | DEX  | 19    |
 | CON  | 9     |
-| INT  | 11    |
+| INT  | 17    |
 | WIS  | 9     |
-| CHR  | 19    |
+| CHR  | 8     |
 
 # Nimbus
-| Stats             |              |
-| ----------------- | ------------ |
-| Gotcha Day        |              |
-| Birthday          |              |
-| Favorite Activity | Napping      |
-| Alignment         | True Neutral |
+You can find him snuggling with mommy or laying his head on your hand. But don’t kiss his tummy or he’ll slash ya a new one
+
+| Stats             |                              |
+| ----------------- | ---------------------------- |
+| Gotcha Day        |                              |
+| Birthday          |                              |
+| Favorite Activity | Napping and resting on mommy |
+| Alignment         | True Neutral                 |
+| Main item         | Springs                      |
 
 | Stat | Value |
 | ---- | ----- |
@@ -53,4 +58,23 @@ pubDate: 09 Dec 2025
 | CON  | 18    |
 | INT  | 9     |
 | WIS  | 11    |
-| CHR  | 12    |
+| CHR  | 14    |
+# Lyra
+Doesn’t play well with others, unless they can KEEP UP. Always on the hunt for new heights and unreachable areas. Protector and guardian of her own realm.
+
+| Stats             |                  |
+| ----------------- | ---------------- |
+| Gotcha Day        |                  |
+| Birthday          |                  |
+| Favorite Activity | Exploring        |
+| Alignment         | Chaotic Evil     |
+| Main item         | Fruit salad bowl |
+
+| Stat | Value |
+| ---- | ----- |
+| STR  | 7     |
+| DEX  | 19    |
+| CON  | 9     |
+| INT  | 12    |
+| WIS  | 5     |
+| CHR  | 18    |
