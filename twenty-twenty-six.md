@@ -6,14 +6,15 @@ description: Resolute to try my best, resigned to reality
 Inspired by my wife, I’m going to set some quantifiable goals for the next year. Ultimately they will stem from some broader and less-defined goals based out of my [[the-dilettantes-garden]](Dilettante’s Garden), but what’s more fun than checking off some boxes?
 # Resolutions
 - [ ] Bike 3000 miles
-- [ ] Climb Alpe d’ Huez
+- [ ] Climb Alpe d’Huez
 - [ ] Read 15 books from my existing “I swear I actually plan on reading this” pile
 - [ ] Record an album
 	- It can be an [Album-a-Day](https://crapart.spacebar.org/aad/)
 	- It can be a full band recording
 	- It can be ambient field recordings
-	- Just record and publish one album
+	- Just record and publish SOMETHING
 - [ ] (Something jazz related?)
+- [ ] Repair or toss my piles of broken goods
 - [ ] Watch Earthlings
 # Existing “to-read” pile
 - [ ] The Stand
