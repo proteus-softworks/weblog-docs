@@ -73,32 +73,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the-dilettantes-garden.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "the-dilettantes-garden"
-            }
-          },
-          {
-            "id": "6a08d42fe753e68c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "twenty-twenty-six.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "twenty-twenty-six"
+              "title": "todo"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -178,16 +163,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a08d42fe753e68c",
+  "active": "955c2e5eef8facc0",
   "lastOpenFiles": [
+    "the-dilettantes-garden.md",
+    "cat-bios.md",
     "beliefs/you-dont-like-capitalism.md",
+    "beliefs/veganism.md",
+    "beliefs/tailwind-good.md",
+    "beliefs/emacs-vim.md",
     "fun-facts.md",
     "twenty-twenty-six.md",
-    "the-dilettantes-garden.md",
     "todo.md",
-    "cat-bios.md",
     "().md",
-    "beliefs/veganism.md",
     "/cat-bios.md",
     "/TODO.md",
     "/Beliefs/you-dont-like-capitalism.md",
@@ -196,10 +183,8 @@
     "/Beliefs/emacs-vim.md",
     "/Beliefs",
     "Dilettantism.md",
-    "beliefs/emacs-vim.md",
     "Untitled",
     "Cat Bios",
-    "beliefs/tailwind-good.md",
     "Posts.md",
     "Posts",
     "beliefs"

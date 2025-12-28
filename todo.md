@@ -1,7 +1,7 @@
 ---
-title: "Site Todo"
-description: "A work in progress."
-draftDate: "Dec 31 3000"
+title: Site Todo
+description: A work in progress.
+draftDate: 3000-12-31
 ---
 
 # Weblog Post Ideas
@@ -16,8 +16,6 @@ draftDate: "Dec 31 3000"
 	- [ ] This format (This is an alt title)[[the-dilettantes-garden]] should render with the alt title and link to the post
 	- [ ] This format [[the-dilettantes-garden]] should render with the post title and link to the post
 - [ ] Indented lists
-- [ ] Opengraph site banner
-- [ ] Opengraph blog heroes
 # Misc
 - [ ] Pre-load fonts
 
@@ -43,4 +41,5 @@ import openSansWoff2 from '@fontsource-variable/open-sans/files/open-sans-latin-
 	- Once this happens, I can probably just move away from MDX and rely entirely on server-side org mode parsing
 	- Publish a formal org-mode astro.js package?
 	- Would maybe be nice for TODO stuff as well (like this doc)
-- [ ] 
+- [ ] Opengraph site banner
+- [ ] Opengraph blog heroes

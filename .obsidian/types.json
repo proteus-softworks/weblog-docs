@@ -5,6 +5,7 @@
     "tags": "tags",
     "Number of cats at home": "number",
     "blah": "date",
-    "pubDate": "date"
+    "pubDate": "date",
+    "draftDate": "date"
   }
 }

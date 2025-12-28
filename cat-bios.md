@@ -1,7 +1,7 @@
 ---
 title: Cat Bios
 description: Not sure if I want these to be separate or whatever, but just writing down some stuff
-draftDate: 09 Dec 2025
+draftDate: 2025-12-09
 ---
 # Beans
 

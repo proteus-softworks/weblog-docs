@@ -13,5 +13,4 @@ Favorite cyclist: Greg LeMond
 List example:
   - blah blah blah
   - another thing
-blah: 2025-12-28
 ---

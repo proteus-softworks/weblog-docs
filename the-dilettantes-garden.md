@@ -1,6 +1,6 @@
 ---
 title: The Dilettante’s Garden
-pubDate: 01 Dec 2025
+pubDate: 2025-12-30
 description: Mary, Mary, quite contrary…
 ---
 > I CELEBRATE myself,
