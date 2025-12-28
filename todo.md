@@ -3,7 +3,6 @@ title: Site Todo
 description: A work in progress.
 draftDate: 3000-12-31
 ---
-
 # Weblog Post Ideas
 - [ ] Supabase studio as a standalone Postgres GUI
 - [ ] Guitar hero drums to midi
@@ -49,3 +48,5 @@ import openSansWoff2 from '@fontsource-variable/open-sans/files/open-sans-latin-
 	- `#(stravaMilesRidden)`
 	- Which would replace the content with some runtime-calculated variable
 	- Need to run the blog in SSR mode and figure out if it’s even possible to do this in a post-processed markdown page
+- [ ] Default `updatedDate` to be the file change date
+	- A manually applied `updatedDate` would take precedence
