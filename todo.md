@@ -44,3 +44,8 @@ import openSansWoff2 from '@fontsource-variable/open-sans/files/open-sans-latin-
 - [ ] Opengraph site banner
 - [ ] Opengraph blog heroes
 - [ ] Backlinks? Not sure if I really even want it, but could be a fun footnote
+- [ ] Some format which can be replaced by a dynamic value
+	- Something like:
+	- `#(stravaMilesRidden)`
+	- Which would replace the content with some runtime-calculated variable
+	- Need to run the blog in SSR mode and figure out if it’s even possible to do this in a post-processed markdown page

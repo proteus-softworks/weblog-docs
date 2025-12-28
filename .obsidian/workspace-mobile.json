@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "twenty-twenty-six.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "twenty-twenty-six"
+              "title": "todo"
             }
           }
         ]
@@ -145,6 +145,7 @@
   },
   "active": "653f648518f3bb81",
   "lastOpenFiles": [
+    "twenty-twenty-six.md",
     "the-dilettantes-garden.md",
     "beliefs/you-dont-like-capitalism.md",
     "beliefs/veganism.md",
@@ -153,7 +154,6 @@
     "todo.md",
     "fun-facts.md",
     "beliefs/emacs-vim.md",
-    "twenty-twenty-six.md",
     "().md",
     "/cat-bios.md",
     "/TODO.md",
