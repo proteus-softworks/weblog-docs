@@ -34,3 +34,4 @@ import openSansWoff2 from '@fontsource-variable/open-sans/files/open-sans-latin-
 	- Once this happens, I can probably just move away from MDX and rely entirely on server-side org mode parsing
 	- Publish a formal org-mode astro.js package?
 	- Would maybe be nice for TODO stuff as well (like this doc)
+- [ ] 
