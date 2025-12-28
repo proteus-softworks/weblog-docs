@@ -3,6 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Number of cats at home": "number"
+    "Number of cats at home": "number",
+    "blah": "date",
+    "pubDate": "date"
   }
 }

@@ -10,4 +10,8 @@ Editor of choice: GNU Emacs
 Number of cats at home: 3
 Number of bicycles at home: 3
 Favorite cyclist: Greg LeMond
+List example:
+  - blah blah blah
+  - another thing
+blah: 2025-12-28
 ---

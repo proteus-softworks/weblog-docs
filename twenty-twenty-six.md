@@ -1,6 +1,6 @@
 ---
 title: Twenty twenty six
-pubDate: Dec 31 2025
+pubDate: 2025-12-31
 description: Resolute to try my best, resigned to reality
 ---
 Inspired by my wife, I’m going to set some quantifiable goals for the next year. Ultimately they will stem from some broader and less-defined goals based out of my (Dilettante’s Garden)[[the-dilettantes-garden]], but what’s more fun than checking off some boxes?
@@ -13,8 +13,9 @@ Inspired by my wife, I’m going to set some quantifiable goals for the next yea
 	- It can be a full band recording
 	- It can be ambient field recordings
 	- Just record and publish SOMETHING
-- [ ] (Something jazz related?)
+- [ ] Attend/participate in a public jazz or bluegrass jam
 - [ ] Repair or toss my piles of broken goods
+- [ ] Volunteer at Bike House and/or Fix-it DC 10 times
 - [ ] Watch Earthlings
 # Existing “to-read” pile
 - [ ] The Stand
