@@ -1,1 +1,0 @@
-I have a tendency to start new hobbies, leave projects half finished, convince myself that 
