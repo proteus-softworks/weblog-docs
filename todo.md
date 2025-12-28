@@ -9,6 +9,12 @@ draftDate: "Dec 31 3000"
 - [ ] Guitar hero drums to midi
 - [ ] Pocket operator sync
 - [ ] Blogging with Astro and Obsidian
+# Formatting, etc
+- [ ] Bottom margin following checklists
+- [ ] Block quotes
+- [ ] Links to other obsidian blog posts
+	- [ ] This format (This is an alt title)[[the-dilettantes-garden]] should render with the alt title and link to the post
+	- [ ] This format [[the-dilettantes-garden]] should render with the post title and link to the post
 # Misc
 - [ ] Pre-load fonts
 

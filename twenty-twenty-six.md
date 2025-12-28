@@ -3,7 +3,7 @@ title: Twenty twenty six
 pubDate: Dec 31 2025
 description: Resolute to try my best, resigned to reality
 ---
-Inspired by my wife, I’m going to set some quantifiable goals for the next year. Ultimately they will stem from some broader and less-defined goals based out of my [[the-dilettantes-garden]](Dilettante’s Garden), but what’s more fun than checking off some boxes?
+Inspired by my wife, I’m going to set some quantifiable goals for the next year. Ultimately they will stem from some broader and less-defined goals based out of my (Dilettante’s Garden)[[the-dilettantes-garden]], but what’s more fun than checking off some boxes?
 # Resolutions
 - [ ] Bike 3000 miles
 - [ ] Climb Alpe d’Huez
