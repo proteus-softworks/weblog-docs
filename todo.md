@@ -47,6 +47,7 @@ import openSansWoff2 from '@fontsource-variable/open-sans/files/open-sans-latin-
 	- `#(stravaMilesRidden)`
 	- Which would replace the content with some runtime-calculated variable
 	- Need to run the blog in SSR mode and figure out if it’s even possible to do this in a post-processed markdown page
+	- Maybe just configure all MD files in obsidian to be treated as MDX
 - [ ] Default `updatedDate` to be the file change date
 	- A manually applied `updatedDate` would take precedence
 - [ ] Visitor counter
