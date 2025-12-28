@@ -52,3 +52,5 @@ import openSansWoff2 from '@fontsource-variable/open-sans/files/open-sans-latin-
 	- A manually applied `updatedDate` would take precedence
 - [ ] Visitor counter
 	- Likely just via an analytics service I set up like Matomo or GoatCounter
+
+MDX test: {new Date().getFullYear()}
