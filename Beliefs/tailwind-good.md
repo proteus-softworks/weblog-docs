@@ -1,6 +1,6 @@
 ---
 title: Tailwind is good
-pubDate: 01 Dec 2025
+draftDate: 01 Dec 2025
 ---
 
 The fact that people defend the esoteric idea of separating styles and markup always baffles me. Like yeah, you don’t want to send a massive dump of crap in 1998, and CSS is a nice enough way to extract out a design system yet keep things small. But come on its `$CURRENT_YEAR`. IMO DiasyUI is basically the logical conclusion of how far you can take a CSS design system, while being as ergonomic as possible. But it is what is: a hack. And if you want to extend every possible minor variation as it’s own semantic variant class defined in some god-forsaken stylesheet, please go for it. But I will be using utility classes bc it’s the closest thing we have to sanity in web styling.

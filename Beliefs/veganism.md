@@ -1,6 +1,6 @@
 ---
 title: Veganism is morally superior
-pubDate: 01 Dec 2025
+draftDate: 01 Dec 2025
 ---
 
 Let me start by saying that I am (regrettably) not vegan — I don't eat animal flesh, but on occasion I will consume other animal products. I do, however, BELIEVE in veganism, and am slowly working to eliminate all animal exploitation from my life. Yes, the dissonance hurts. Yes, the animals hurt worse.
