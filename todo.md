@@ -2,6 +2,7 @@
 title: Site Todo
 description: A work in progress.
 draftDate: 3000-12-31
+mdx: true
 ---
 # Weblog Post Ideas
 - [ ] Supabase studio as a standalone Postgres GUI
