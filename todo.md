@@ -43,3 +43,4 @@ import openSansWoff2 from '@fontsource-variable/open-sans/files/open-sans-latin-
 	- Would maybe be nice for TODO stuff as well (like this doc)
 - [ ] Opengraph site banner
 - [ ] Opengraph blog heroes
+- [ ] Backlinks? Not sure if I really even want it, but could be a fun footnote

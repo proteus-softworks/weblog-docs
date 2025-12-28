@@ -16,6 +16,7 @@ Inspired by my wife, I’m going to set some quantifiable goals for the next yea
 - [ ] Attend/participate in a public jazz or bluegrass jam
 - [ ] Repair or toss my piles of broken goods
 - [ ] Volunteer at Bike House and/or Fix-it DC 10 times
+	- Current count: 0
 - [ ] Watch Earthlings
 # Existing “to-read” pile
 - [ ] The Stand
