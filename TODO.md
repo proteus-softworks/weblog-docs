@@ -8,8 +8,6 @@ draftDate: "Dec 31 3000"
 - [ ] supabase studio as a standalone Postgres GUI
 - [ ] guitar hero drums to midi
 - [ ] Pocket operator sync
-
-
 # Misc
 - [ ] Pre-load fonts
 
