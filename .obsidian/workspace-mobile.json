@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "fun-facts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "fun-facts"
             }
           }
         ],
@@ -181,11 +181,11 @@
   "active": "6a08d42fe753e68c",
   "lastOpenFiles": [
     "the-dilettantes-garden.md",
+    "cat-bios.md",
     "todo.md",
     "twenty-twenty-six.md",
     "fun-facts.md",
     "().md",
-    "cat-bios.md",
     "beliefs/you-dont-like-capitalism.md",
     "beliefs/veganism.md",
     "/cat-bios.md",
