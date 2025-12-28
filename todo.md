@@ -15,6 +15,9 @@ draftDate: "Dec 31 3000"
 - [ ] Links to other obsidian blog posts
 	- [ ] This format (This is an alt title)[[the-dilettantes-garden]] should render with the alt title and link to the post
 	- [ ] This format [[the-dilettantes-garden]] should render with the post title and link to the post
+- [ ] Indented lists
+- [ ] Opengraph site banner
+- [ ] Opengraph blog heroes
 # Misc
 - [ ] Pre-load fonts
 
