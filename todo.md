@@ -5,8 +5,8 @@ draftDate: "Dec 31 3000"
 ---
 
 # Post Ideas
-- [ ] supabase studio as a standalone Postgres GUI
-- [ ] guitar hero drums to midi
+- [ ] Supabase studio as a standalone Postgres GUI
+- [ ] Guitar hero drums to midi
 - [ ] Pocket operator sync
 # Misc
 - [ ] Pre-load fonts
@@ -23,16 +23,13 @@ import openSansWoff2 from '@fontsource-variable/open-sans/files/open-sans-latin-
 
 - [ ] More fun facts
 - [ ] Dynamic fun facts?
-  
-extract them into a yml/json/text file for easy mobile editing?
-
+	- Extract them into a yml/json/text file for easy mobile editing?
+	- Maybe a markdown file so I can edit in obsidian? In theory the whole file can be just top matter?
 - [ ] Collage page with simple dynamic rendering of external images
-
-I’m imagining like a table full of Polaroids?   
-
-- [ ] Pic of me n beans on Home Screen
+	- I’m imagining like a table full of Polaroids?   
+- [x] Pic of me n beans on Home Screen
 - [ ] Break out the “beliefs” sections into separate posts with a “belief” tag, reconstitute them into the beliefs post as a special type of post?
 - [ ] Look into using [uniorg](https://github.com/rasendubi/uniorg) for live org-mode parsing
-  - Once this happens, I can probably just move away from MDX and rely entirely on server-side org mode parsing
-  - Publish a formal org-mode astro.js package?
-  - Would maybe be nice for TODO stuff as well (like this doc)
+	- Once this happens, I can probably just move away from MDX and rely entirely on server-side org mode parsing
+	- Publish a formal org-mode astro.js package?
+	- Would maybe be nice for TODO stuff as well (like this doc)
