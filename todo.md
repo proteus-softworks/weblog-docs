@@ -4,10 +4,11 @@ description: "A work in progress."
 draftDate: "Dec 31 3000"
 ---
 
-# Post Ideas
+# Weblog Post Ideas
 - [ ] Supabase studio as a standalone Postgres GUI
 - [ ] Guitar hero drums to midi
 - [ ] Pocket operator sync
+- [ ] Blogging with Astro and Obsidian
 # Misc
 - [ ] Pre-load fonts
 
