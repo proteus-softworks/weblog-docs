@@ -25,7 +25,6 @@ import '@fontsource-variable/open-sans';
 import openSansWoff2 from '@fontsource-variable/open-sans/files/open-sans-latin-wght-normal.woff2?url';
 
 <link rel="preload" as="font" type="font/woff2" href={openSansWoff2} crossorigin="anonymous" />
-
 ```
 
 - [ ] More fun facts
@@ -50,3 +49,5 @@ import openSansWoff2 from '@fontsource-variable/open-sans/files/open-sans-latin-
 	- Need to run the blog in SSR mode and figure out if it’s even possible to do this in a post-processed markdown page
 - [ ] Default `updatedDate` to be the file change date
 	- A manually applied `updatedDate` would take precedence
+- [ ] Visitor counter
+	- Likely just via an analytics service I set up like Matomo or GoatCounter

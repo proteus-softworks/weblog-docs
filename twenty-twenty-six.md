@@ -35,3 +35,5 @@ Inspired by my wife, I’m going to set some quantifiable goals for the next yea
 - [ ] Roads Were Not Built For Cars
 - [ ] Domain Driven Design
 - [ ] The Design of Every Day Things
+- [ ] Hocus Pocus
+- [ ] Mother Night
