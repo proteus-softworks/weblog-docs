@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "beliefs/you-dont-like-capitalism.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "you-dont-like-capitalism"
             }
           }
         ],
@@ -166,14 +166,14 @@
   "active": "955c2e5eef8facc0",
   "lastOpenFiles": [
     "the-dilettantes-garden.md",
-    "cat-bios.md",
-    "beliefs/you-dont-like-capitalism.md",
     "beliefs/veganism.md",
+    "beliefs/you-dont-like-capitalism.md",
+    "cat-bios.md",
+    "todo.md",
+    "fun-facts.md",
     "beliefs/tailwind-good.md",
     "beliefs/emacs-vim.md",
-    "fun-facts.md",
     "twenty-twenty-six.md",
-    "todo.md",
     "().md",
     "/cat-bios.md",
     "/TODO.md",

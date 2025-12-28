@@ -28,5 +28,6 @@
     "obsidian-git:open-git-view"
   ],
   "alwaysUpdateLinks": true,
-  "mobilePullAction": ""
+  "mobilePullAction": "",
+  "newFileLocation": "current"
 }
