@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cat-bios.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cat-bios"
+              "title": "TODO"
             }
           }
         ],
@@ -151,8 +151,8 @@
   "active": "45317acb64d30ee3",
   "lastOpenFiles": [
     "Untitled.md",
-    "TODO.md",
     "cat-bios.md",
+    "TODO.md",
     "Dilettantism.md",
     "the-dilettantes-garden.md",
     "Beliefs/emacs-vim.md",
