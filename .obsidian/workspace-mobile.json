@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "todo"
             }
+          },
+          {
+            "id": "bcb8bfcf640ea752",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ssr.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ssr"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,11 +168,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6793d20b1a266d52",
+  "active": "bcb8bfcf640ea752",
   "lastOpenFiles": [
+    "todo.md",
+    "ssr.md",
     "fun-facts.md",
     "cat-bios.md",
-    "todo.md",
     "cat-bios.mdx",
     "twenty-twenty-six.md",
     "the-dilettantes-garden.md",
