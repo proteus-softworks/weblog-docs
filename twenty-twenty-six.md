@@ -29,6 +29,7 @@ Inspired by my wife, I’m going to set some quantifiable goals for the next yea
 - [ ] (Shanks book)
 - [ ] Eager
 - [ ] Caste
+- [ ] How Jesus Became God
 - [ ] Zen Mind Beginner’s Mind
 - [ ] Lost Subways of North America
 - [ ] Roads Were Not Built For Cars
