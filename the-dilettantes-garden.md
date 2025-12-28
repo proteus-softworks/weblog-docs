@@ -1,7 +1,7 @@
 ---
 title: The Dilettante’s Garden
 pubDate: 01 Dec 2025
-description:
+description: Mary, Mary, quite contrary…
 ---
 > I CELEBRATE myself,
 > And what I assume you shall assume,
