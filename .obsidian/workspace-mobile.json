@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "todo"
             }
-          },
-          {
-            "id": "bcb8bfcf640ea752",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ssr.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ssr"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,21 +143,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bcb8bfcf640ea752",
+  "active": "6793d20b1a266d52",
   "lastOpenFiles": [
-    "todo.md",
     "ssr.md",
-    "fun-facts.md",
+    "todo.md",
+    "the-dilettantes-garden.md",
     "cat-bios.md",
+    "beliefs/you-dont-like-capitalism.md",
+    "ssr.mdx",
+    "/twenty-twenty-six.md",
+    "/todo.md",
+    "/the-dilettantes-garden.md",
+    "/cat-bios.md",
+    "fun-facts.md",
     "cat-bios.mdx",
     "twenty-twenty-six.md",
-    "the-dilettantes-garden.md",
-    "beliefs/you-dont-like-capitalism.md",
     "beliefs/veganism.md",
     "beliefs/tailwind-good.md",
     "beliefs/emacs-vim.md",
     "().md",
-    "/cat-bios.md",
     "/TODO.md",
     "/Beliefs/you-dont-like-capitalism.md",
     "/Beliefs/veganism.md",
