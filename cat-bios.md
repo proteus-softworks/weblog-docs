@@ -3,7 +3,7 @@ title: Cat Bios
 description: Not sure if I want these to be separate or whatever, but just writing down some stuff
 draftDate: 2025-12-09
 ---
-# Beans
+## Beans
 
 | Stats             |               |
 | ----------------- | ------------- |
@@ -22,7 +22,7 @@ draftDate: 2025-12-09
 | WIS  | 12    |
 | CHR  | 14    |
 
-# Bruiser
+## Bruiser
 | Stats             |                       |
 | ----------------- | --------------------- |
 | Gotcha Day        |                       |
@@ -40,7 +40,7 @@ draftDate: 2025-12-09
 | WIS  | 9     |
 | CHR  | 8     |
 
-# Nimbus
+## Nimbus
 You can find him snuggling with mommy or laying his head on your hand. But don’t kiss his tummy or he’ll slash ya a new one
 
 | Stats             |                              |
@@ -59,7 +59,8 @@ You can find him snuggling with mommy or laying his head on your hand. But don�
 | INT  | 9     |
 | WIS  | 11    |
 | CHR  | 14    |
-# Lyra
+
+## Lyra
 Doesn’t play well with others, unless they can KEEP UP. Always on the hunt for new heights and unreachable areas. Protector and guardian of her own realm.
 
 | Stats             |                  |

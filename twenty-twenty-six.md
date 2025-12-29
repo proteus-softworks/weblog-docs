@@ -4,7 +4,8 @@ pubDate: 2025-12-31
 description: Resolute to try my best, resigned to reality
 ---
 Inspired by my wife, I’m going to set some quantifiable goals for the next year. Ultimately they will stem from some broader and less-defined goals based out of my (Dilettante’s Garden)[[the-dilettantes-garden]], but what’s more fun than checking off some boxes?
-# Resolutions
+
+## Resolutions
 - [ ] Bike 2000 miles
 - [ ] Climb Alpe d’Huez
 - [ ] Read 15 books from my existing “I swear I actually plan on reading this” pile
@@ -18,7 +19,9 @@ Inspired by my wife, I’m going to set some quantifiable goals for the next yea
 - [ ] Volunteer at Bike House and/or Fix-it DC 10 times
 	- Current count: 0
 - [ ] Watch Earthlings
-# Existing “to-read” pile
+
+
+## Existing “to-read” pile
 - [ ] The Stand
 - [ ] The Waste Lands (Dark Tower #3)
 - [ ] Insomnia
