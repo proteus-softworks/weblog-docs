@@ -4,7 +4,7 @@ pubDate: 2025-12-31
 description: Resolute to try my best, resigned to reality
 mdx: true
 ---
-import ServerValue from "@/components/ServerValue.astro";
+import ServerValue from "../../components/ServerValue.astro";
 
 Inspired by my wife, I’m going to set some quantifiable goals for the next year. Ultimately they will stem from some broader and less-defined goals based out of my (Dilettante’s Garden)[[the-dilettantes-garden]], but what’s more fun than checking off some boxes?
 
