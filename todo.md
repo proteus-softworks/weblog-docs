@@ -12,9 +12,9 @@ mdx: true
 ## Formatting, etc
 - [x] Bottom margin following checklists
 - [x] Block quotes
-- [ ] Links to other obsidian blog posts
-	- [ ] This format (This is an alt title)[[the-dilettantes-garden]] should render with the alt title and link to the post
-	- [ ] This format [[the-dilettantes-garden]] should render with the post title and link to the post
+- [x] Links to other obsidian blog posts
+	- [x] This format (This is an alt title)[[the-dilettantes-garden]] should render with the alt title and link to the post
+	- [x] This format [[the-dilettantes-garden]] should render with the post title and link to the post
 - [x] Indented lists
 ## Misc
 - [ ] Pre-load fonts
@@ -43,7 +43,7 @@ import openSansWoff2 from '@fontsource-variable/open-sans/files/open-sans-latin-
 - [ ] Opengraph site banner
 - [ ] Opengraph blog heroes
 - [ ] Backlinks? Not sure if I really even want it, but could be a fun footnote
-- [ ] Some format which can be replaced by a dynamic value
+- [x] Some format which can be replaced by a dynamic value
 	- Something like:
 	- `#(stravaMilesRidden)`
 	- Which would replace the content with some runtime-calculated variable
