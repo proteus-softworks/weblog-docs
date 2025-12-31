@@ -4,13 +4,13 @@ pubDate: 2025-12-31
 description: Resolute to try my best, resigned to reality
 mdx: true
 ---
-import StravaYtdMiles from "../../components/StravaYtdMiles.astro";
+import ServerValue from "@/components/ServerValue.astro";
 
 Inspired by my wife, I’m going to set some quantifiable goals for the next year. Ultimately they will stem from some broader and less-defined goals based out of my (Dilettante’s Garden)[[the-dilettantes-garden]], but what’s more fun than checking off some boxes?
 
 ## Resolutions
 - [ ] Bike 2000 miles
-  - Miles ridden: <StravaYtdMiles server:defer><Fragment slot="fallback">checking Strava...</Fragment></StravaYtdMiles>
+  - Miles ridden: <ServerValue name="stravaYtdMiles" />
 - [ ] Climb Alpe d’Huez
 - [ ] Read 15 books from my existing “I swear I actually plan on reading this” pile
 - [ ] Record an album
