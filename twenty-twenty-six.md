@@ -10,7 +10,7 @@ Inspired by my wife, I’m going to set some quantifiable goals for the next yea
 
 ## Resolutions
 - [ ] Bike 2000 miles
-  - Miles ridden: <ServerValue name="stravaYtdMiles" />
+  - Miles ridden: <ServerValue server:defer name="stravaYtdMiles" />
 - [ ] Climb Alpe d’Huez
 - [ ] Read 15 books from my existing “I swear I actually plan on reading this” pile
 - [ ] Record an album
