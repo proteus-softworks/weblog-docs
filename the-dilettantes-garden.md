@@ -23,16 +23,17 @@ This post isn’t about “oh you never know what you’ll like” or “you’l
 ## Programming
 Honestly I have always acknowledged this fella. I’ve been programming for fun and profit since I was 12, and in those 20 years have developed a great confidence and humility which effectively precludes its presence in this post. This one is probably surrounded by the highest density of decaying flora, but I have no issues with this and consider it mostly cover crop.
 
+![[IMG_2246 1.webp]]
+
+I will continue to tinker with computers, experiment with new tooling and languages, and forge unnecessarily strong opinions. I couldn’t stop if I wanted to. The threat of LLMs’ wedge separating me from the craft of writing software is frightening, but I’m optimistic that at my core I’ll keep at it. Even if it’s just writing toy games on the [PICO-8](https://www.lexaloffle.com/pico-8.php).
 ## Music
 I love music. Especially listening to music. And dancing. And singing. I actually do “sing” in a “band” but that’s more out of an urge to be creative with friends. And I used to “dance” competitively, but THAT plant withered away many years ago (though I have tried to resurrect it a handful of times, to no success).
 
-But with deep affection comes deep insecurities. I am immensely self-conscious about playing music for anybody. Singing for an audience is easy because I don’t really “care” about it, and don’t really have a desire to be “good” at it — it’s just fun, and I’m with my friends, so yay! But piano or guitar…
-
-I started playing piano when I was about 10. I took lessons etc, mostly at the insistence of my parents. I was “good” insofar as I actually practiced a bit and learned to play the music on the sheet
+But with deep affection comes deep insecurities. I am immensely self-conscious about playing music for anybody. Singing for an audience is easy because I don’t really “care” about it, and don’t really have a desire to be “good” at it — it’s just fun, and I’m with my friends, so yay! But piano or guitar…yikes.
 ## Cycling
 Riding n maintenance etc
-## “Horticulture”
+## Horticulture
 Given the theme of this post, there is an irony in my horticultural ineptitude. I have a nasty habit of underwatering and a very nasty habit of allowing pests to thrive long enough to decimate whole segments of plants. But I do enjoy looking at my plants and attempting to keep them alive.
-## Husbandry
+## “Husbandry”
 ## Visual Art
 ## Cooking
