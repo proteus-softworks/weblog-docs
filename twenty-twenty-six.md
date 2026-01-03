@@ -18,6 +18,7 @@ Inspired by my wife, I’m going to set some quantifiable goals for the next yea
 	- Just record and publish SOMETHING
 - [ ] Attend/participate in a public jazz or bluegrass jam
 - [ ] Repair or toss my piles of broken goods
+- [ ] Finish one PICO-8 or similar game
 - [ ] Volunteer at Bike House and/or Fix-it DC 10 times
 	- Current count: 0
 - [ ] Watch Earthlings
