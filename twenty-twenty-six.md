@@ -25,7 +25,7 @@ Inspired by my wife, I’m going to set some quantifiable goals for the next yea
 
 
 ## Existing “to-read” pile
-- [ ] The Stand
+- [x] The Stand
 - [ ] The Waste Lands (Dark Tower #3)
 - [ ] Insomnia
 - [ ] Wizard and Glass (Dark Tower #4)

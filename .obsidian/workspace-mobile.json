@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "output-over-process.md",
+                "file": "twenty-twenty-six.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "output-over-process"
+              "title": "twenty-twenty-six"
             }
           }
         ],
@@ -218,8 +218,8 @@
   },
   "active": "19cd2883f5d5d1be",
   "lastOpenFiles": [
-    "guitar-hero-midi.md",
     "output-over-process.md",
+    "guitar-hero-midi.md",
     "fun-facts.md",
     "cat-bios.md",
     "todo.md",
