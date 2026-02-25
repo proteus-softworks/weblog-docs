@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "guitar-hero-midi"
             }
+          },
+          {
+            "id": "19cd2883f5d5d1be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "output-over-process.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "output-over-process"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,15 +216,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8ba1b695921ae62",
+  "active": "19cd2883f5d5d1be",
   "lastOpenFiles": [
+    "guitar-hero-midi.md",
+    "output-over-process.md",
     "fun-facts.md",
     "cat-bios.md",
     "todo.md",
     "IMG_2246 1.webp",
     "IMG_2246.webp",
     "Unknown.json",
-    "guitar-hero-midi.md",
     "twenty-twenty-six.md",
     "the-dilettantes-garden.md",
     "ssr-2.md",
